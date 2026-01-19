@@ -4,7 +4,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=8arry&show_icons=true" height="170" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=8arry&theme=github-light" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=8arry&layout=compact&theme=transparent" height="170" />
 </div>
 
 
