@@ -2,9 +2,10 @@
 - 🎓 Master student @ TUM
 - 🌱 Currently learning LLMs and AI agent
 
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=8arry&show_icons=true" height="170" />
-  <img src="https://streak-stats.demolab.com?user=8arry&theme=light" height="170" />
+  <img src="https://streak-stats.demolab.com?user=8arry&theme=flat" height="170" />
 </div>
 
 
