@@ -1,9 +1,9 @@
-# Hi, I'm Rui Tang 👋
+# Hi, I'm Rui Tang
 
 **AI Engineer** building LLM agents, RAG systems and developer tools.
 M.Sc. Information Engineering @ TUM · AI Engineer Intern @ BMW Group · Munich, Germany
 
-## 🔨 What I'm building
+## What I'm building
 
 - **AI Code Review Agent @ BMW** — production LangGraph multi-agent system that reviews pull requests on
   GitHub Enterprise and Gerrit across 700+ repositories (~3K agent runs). I built the Gerrit integration,
@@ -14,7 +14,7 @@ M.Sc. Information Engineering @ TUM · AI Engineer Intern @ BMW Group · Munich,
 
 <sub>Company code is private — happy to walk through the architecture and design decisions in a conversation.</sub>
 
-## 📌 Featured projects
+## Featured projects
 
 | Project | What | Highlights |
 |---|---|---|
@@ -25,10 +25,12 @@ M.Sc. Information Engineering @ TUM · AI Engineer Intern @ BMW Group · Munich,
 | [go42TUM](https://github.com/tsaichen1o/voiceAssistant) | AI academic advisor (team project) | RAG, voice & text chat, Python + TypeScript |
 | [Uniplacement_Vis](https://github.com/8arry/Uniplacement_Vis) | Interactive D3.js dashboard | Linked multi-view filtering |
 
-## 🧰 Tech
+## Tech
 
 **AI:** LangGraph · RAG · MCP · PyTorch · sentence-transformers · Langfuse
+
 **Backend:** Python · Go · C++ · TypeScript · FastAPI · gRPC · RabbitMQ · PostgreSQL
+
 **Infra:** Docker · Kubernetes · ArgoCD · GitHub Actions · Prometheus · Grafana
 
 ## 📫 Contact
