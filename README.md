@@ -1,42 +1,36 @@
-# Rui Tang | 8arry
+# Hi, I'm Rui Tang 👋
 
-Master's student at the **Technical University of Munich (TUM)**, based in Germany.
+**AI Engineer** building LLM agents, RAG systems and developer tools.
+M.Sc. Information Engineering @ TUM · AI Engineer Intern @ BMW Group · Munich, Germany
 
-I work on **AI assistants, retrieval-augmented generation, and parallel computing**.
-I'm interested in how language models can help people navigate information and code,
-and how the systems behind them can run more efficiently.
+## 🔨 What I'm building
 
-## Selected Projects
+- **AI Code Review Agent @ BMW** — production LangGraph multi-agent system that reviews pull requests on
+  GitHub Enterprise and Gerrit across 700+ repositories (~3K agent runs). I built the Gerrit integration,
+  the event-driven backend (Go, RabbitMQ) and the Kubernetes / ArgoCD deployment of 18 services.
+- **Documentation search for GitHub Copilot @ BMW** — MCP server backed by a RAG pipeline with
+  incremental streaming embeddings and a gRPC vector store.
+- **Master's thesis** — *Evaluating Cross-Repository Context Retrieval for AI Code Review*.
 
-### [Micro Transformer with OpenMP](https://github.com/8arry/micro-transformer-openmp)
-A simplified Transformer encoder in **C++23**, with OpenMP-parallelized attention,
-blocked matrix multiplication, and SIMD reductions. The repository reports a
-**10.51x speedup with 16 threads** at a sequence length of 256 in its benchmark.
+<sub>Company code is private — happy to walk through the architecture and design decisions in a conversation.</sub>
 
-### [go42TUM - AI Academic Advisor](https://github.com/tsaichen1o/voiceAssistant)
-A team project I contributed to: a TUM academic advisor with **RAG, text and voice
-conversations**, streamed responses, and chat history. Built with **Python and
-TypeScript**.
+## 📌 Featured projects
 
-### [RAG4TUM](https://github.com/8arry/RAG4TUM)
-A **Python** project exploring retrieval-augmented generation for TUM degree-program
-information.
+| Project | What | Highlights |
+|---|---|---|
+| [micro-transformer-openmp](https://github.com/8arry/micro-transformer-openmp) | Transformer encoder in C++23 + OpenMP | 10.5× speedup on 16 cores |
+| [cosqa-codesearch](https://github.com/8arry/cosqa-codesearch) | Semantic code search with a fine-tuned embedding model | nDCG@10 0.534, +69.7% vs. published e5-base-v2 baseline |
+| [TinyDB](https://github.com/8arry/TinyDB) | In-memory SQL database in C++23 | Recursive-descent parser, JOIN, 48 unit tests |
+| [RAG4TUM](https://github.com/8arry/RAG4TUM) | RAG for TUM degree-program information | Hybrid retrieval (FAISS + BM25) with cross-encoder reranking |
+| [go42TUM](https://github.com/tsaichen1o/voiceAssistant) | AI academic advisor (team project) | RAG, voice & text chat, Python + TypeScript |
+| [Uniplacement_Vis](https://github.com/8arry/Uniplacement_Vis) | Interactive D3.js dashboard | Linked multi-view filtering |
 
-## Tools & Interests
+## 🧰 Tech
 
-**Languages:** Python, C++, TypeScript
+**AI:** LangGraph · RAG · MCP · PyTorch · sentence-transformers · Langfuse
+**Backend:** Python · Go · C++ · TypeScript · FastAPI · gRPC · RabbitMQ · PostgreSQL
+**Infra:** Docker · Kubernetes · ArgoCD · GitHub Actions · Prometheus · Grafana
 
-**Interests:** LLM applications, AI agents, semantic code search, RAG, OpenMP
+## 📫 Contact
 
-<details>
-<summary>GitHub activity</summary>
-
-<img alt="Rui Tang's GitHub contribution statistics" src="https://github-readme-stats.vercel.app/api?username=8arry&show_icons=true&include_all_commits=true&cache_seconds=14400&theme=transparent" width="420" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/8arry/8arry/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/8arry/8arry/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/8arry/8arry/output/github-contribution-grid-snake.svg">
-</picture>
-
-</details>
+[LinkedIn](https://www.linkedin.com/in/rui-tang-01b6a9256) · rui.barry.tang@gmail.com · Open to AI / software engineering roles from 04.2027
