@@ -10,7 +10,7 @@ M.Sc. Information Engineering @ TUM · AI Engineer Intern @ BMW Group · Munich,
   the event-driven backend (Go, RabbitMQ) and the Kubernetes / ArgoCD deployment of 18 services.
 - **Documentation search for GitHub Copilot @ BMW** — MCP server backed by a RAG pipeline with
   incremental streaming embeddings and a gRPC vector store.
-- **Master's thesis** — *Evaluating Cross-Repository Context Retrieval for AI Code Review*.
+- **Master's thesis** — *Cross-Repository Context Retrieval for AI Code Review*.
 
 <sub>Company code is private — happy to walk through the architecture and design decisions in a conversation.</sub>
 
